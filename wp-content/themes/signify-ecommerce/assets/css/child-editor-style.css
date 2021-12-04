@@ -1,0 +1,63 @@
+/*
+Theme Name: Signify eCommerce
+Description: Used to style the TinyMCE editor.
+*/
+
+/**
+ * Table of Contents
+ *
+ * 1.0 - Body
+ * 2.0 - Typography
+ * 3.0 - Elements
+ * 4.0 - Padding/Margin
+ * 5.0 - Forms
+ * 6.0 - Navigation
+ *   6.1 - Links
+ * 7.0 - Alignments
+ * 8.0 - Posts and pages
+ * 9.0 - Media
+ * 10.0 - Captions
+ * 11.0 - Galleries
+ * 12.0 - Media Queries
+ *    12.1 - >= 1024px
+ *	  12.2 - >= 1200px
+ *	  12.3 - >= 1366px
+ *	  12.4 - >= 1600px
+ * 14.0 - RTL
+ * 15.0 - Colors
+ */
+
+/**
+ * 15.0 Blocks - Colors
+ */
+
+/* Main Text Color */
+body,
+input,
+select,
+textarea,
+input[type="date"],
+input[type="time"],
+input[type="datetime-local"],
+input[type="week"],
+input[type="month"],
+input[type="text"],
+input[type="email"],
+input[type="url"],
+input[type="password"],
+input[type="search"],
+input[type="tel"],
+input[type="number"],
+blockquote,
+.wp-playlist-current-item .wp-playlist-caption,
+.mejs-container .mejs-controls .mejs-time,
+.editor-styles-wrapper .mce-content-body a:not(.more-link):not(.button):not(button):not(.wp-playlist-caption):hover,
+.editor-styles-wrapper .mce-content-body a:not(.more-link):not(.button):not(button):not(.wp-playlist-caption):focus,
+.editor-styles-wrapper .mce-content-body a:not(.more-link):not(.button):not(button):not(.wp-playlist-caption):hover,
+.editor-styles-wrapper .mce-content-body a:not(.more-link):not(.button):not(button):not(.wp-playlist-caption):focus,
+a:not(.more-link):not(.button):not(button):not(.wp-playlist-caption):hover,
+a:not(.more-link):not(.button):not(button):not(.wp-playlist-caption):focus,
+textarea,
+.wp-playlist-light .wp-playlist {
+    color: #393939;
+}
